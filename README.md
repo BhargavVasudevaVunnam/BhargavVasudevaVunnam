@@ -1,2 +1,2 @@
-Hi I am Bhargav Vasudeva Vunnam. I am studying at WSU currently. I like analytical problems, machine learning. I am currently looking for internships. Some of the projects that i
-have done are posted at my github site. 
+Master's student in computer science with one year and seven months of professional experience in software development having insights into computer science through development and application of learned material. 
+I am a calm and relaxed person. Currently, open for Software Development Engineer, and System Engineer roles.
