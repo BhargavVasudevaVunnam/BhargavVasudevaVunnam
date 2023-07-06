@@ -1,1 +1,2 @@
-Master's student in computer science with one year and seven months of professional experience in software development having insights into computer science through development and application of learned material. 
+Computer Science Graduate Interested in Data Structures and Algorithms. Like devising strategies and new implementations. Interested in AI/ML as well.
+
